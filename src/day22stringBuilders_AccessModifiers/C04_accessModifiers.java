@@ -1,4 +1,4 @@
-package day21stringBuilders_AccessModifiers;
+package day22stringBuilders_AccessModifiers;
 
 public class C04_accessModifiers {
 

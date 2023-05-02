@@ -1,4 +1,4 @@
-package day21stringBuilders_AccessModifiers;
+package day22stringBuilders_AccessModifiers;
 
 public class C02_stringBuilderMethodlari {
     public static void main(String[] args) {
