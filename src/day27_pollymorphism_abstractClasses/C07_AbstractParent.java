@@ -15,15 +15,15 @@ public abstract class C07_AbstractParent extends C06_AbstractGP {
       isterse implement eder, isterse etmez
      */
 
-    void method1(){
+    protected void method1(){
         System.out.println("Parent class concrete method1");
     }
 
-    void method4(){
+    protected void method4(){
         System.out.println("Parent class concrete method4");
     }
-    abstract void method5();
-    void method6(){
+    protected abstract void method5();
+   protected void method6(){
         System.out.println("Parent class concrete method6");
     }
 
